@@ -11,9 +11,9 @@ Explanation: [0,-10,5,null,-3,null,9] is also accepted:
 
 
 Example 2:
+
+
 ![image](https://github.com/shivCan99/java-leetcode-108/assets/107194536/39da14d2-eee7-4409-821a-e287c544ebb4)
-
-
 
 Input: nums = [1,3]
 Output: [3,1]
